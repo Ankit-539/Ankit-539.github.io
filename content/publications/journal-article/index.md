@@ -1,12 +1,12 @@
 ---
-title: "An example journal article"
+title: "On random classical marginal problems with applications to quantum information theory"
 authors:
 - admin
-- Robert Ford
+- Ion Nechita
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,10 +17,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Journal of Physics A: Mathematical and Theoretical"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this paper, we study random instances of the classical marginal problem. We encode the problem in a graph, where the vertices have assigned fixed binary probability distributions, and edges have assigned random bivariate distributions having the incident vertex distributions as marginals. We provide estimates on the probability that a joint distribution on the graph exists, having the bivariate edge distributions as marginals. Our study is motivated by Fine's theorem in quantum mechanics. We study in great detail the graphs corresponding to CHSH and Bell–Wigner scenarios providing rations of volumes between the local and non-signaling polytopes.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

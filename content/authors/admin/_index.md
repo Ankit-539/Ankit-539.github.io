@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Ankit Kumar Jha
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Ankit Kumar
+last_name: Jha
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,111 +23,141 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
-
+  - name: Laboratoire Ondes et Matière d'Aquitaine
+    url: https://www.loma.cnrs.fr/
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:ankitkumarjh[at]umass.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: 
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: 
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: 
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=Olm22zUAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0009-0429-0563
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Quantum Information Theory
+  - Quantum Error Correction
+  - Condensed Matter Physics
+  - High-Performance Computing
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: Doctor of Philosophy (PhD) in Physics
+    institution: Universite de Bordeaux
+    date_start: 2025-10-01
+    date_end: 2028-09-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Working on Quantum Coherent Control of a Bilayer Graphene Qubit via Mechanical Coupling
     button:
-      text: 'Read Thesis'
+      text: 'Read about the project'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+
+  - area: Graduate School in Computer Science
+    institution: University of Massachussetts Amherst
+    date_start: 2024-09-01
+    date_end: 2025-08-30
     summary: |
       GPA: 4.0/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
+      Worked on Efficient Design of Quantum Repeaters using Concatenated Bosonic and Discrete Variable Error Correcting Codes. Transferred after 1st year.
+    button:
+      text: 'Read about the project'
+      url: 'https://example.com/thesis.pdf'
 
-      Minored in Mathematics. President of AI Club.
+  - area: Integrated Bachelor's and Master's of Science in Physics
+    institution: Indian Institute of Technology Kharagpur
+    date_start: 2019-07-21
+    date_end: 2024-05-05
+    summary: |
+      GPA: 9.42/10.00
+
+      Minored in Mathematics and Computing.
+
+      Master's thesis on Dynamics of Driven Classical Spin Systems
+
+    button:
+      text: 'Read the thesis'
+      url: 'https://example.com/thesis.pdf'
+
+  - area: Intermediate (ISC)
+    institution: Sri Krishna Public School
+    date_start: 2017-04-21
+    date_end: 2019-04-15
+    summary: |
+      Percentage : 97.75%
+
+      Subjects Taken : Physics, Chemistry, Mathematics, Computer Science, English, Hindi
+
+  - area: Matriculation (ICSE)
+    institution: Sri Krishna Public School
+    date_start: 2003-04-21
+    date_end: 2017-04-15
+    summary: |
+      Percentage : 96.60%
+
+      Subjects Taken : Physics, Chemistry, Biology, Mathematics, Computer Science, English, Hindi, History, Geography
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+
+  - position: Summer Research Intern
+    company_name: Laboratoire de Physique Théorique, University of Toulouse
+    company_url: 'https://lpt.univ-tlse3.fr/en/'
     company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2022-05-27
+    date_end: 2022-08-07
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Explored nonlocality in quantum and supra-quantum correlations within Bell games and quantum networks, studying the geometry of classical and quantum probabilities via correlation and cut polytopes. Quantified volume ratios of correlation slices and analyzed local polytope facets for graphs with small tree-widths under edge modifications.
+
+  - position: Summer Research Intern
+    company_name: Theoretical Quantum Optics Group, University of Siegen
+    company_url: 'https://www.physik.uni-siegen.de/tqo/'
+    company_logo: ''
+    date_start: 2021-05-16
+    date_end: 2021-08-10
+    summary: |
+      Studied Bell inequalities and nonlocality in classical, quantum, and post-quantum regimes, analyzing hidden-variable realizations with negative probabilities.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Programming Languages - C/C++, Python, Java
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
+      - name: HPC using OpenMPI/CUDA
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+        icon: code-bracket
+      - name: Data Analysis
         description: ''
         percent: 85
-        icon: cloud
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Gaming
         description: ''
         percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        icon: computer-desktop
+      - name: Chess
         description: ''
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        icon: puzzle-piece
+      - name: Literature
         description: ''
         percent: 70
         icon: book-open
@@ -135,35 +165,85 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Hindi
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+  - title: CICS Fellowship
+    url: 
+    date: '2022-09-01'
+    awarder: CICS UMass
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+      Received a $5,000 Non-Working Fellowship from CICS for pursuing graduate studies at UMass Amherst.
+
+  - title: 70th Convocation Endowment Prize
+    url: 
+    date: '2021-06-15'
+    awarder: IIT Kharagpur
+    icon: hero/trophy
+    summary: |
+      Conferred the 70th Convocation Endowment Prize 2024 at IIT Kharagpur for the best Master’s thesis in the Physics Department.
+
+  - title: Gold Medal - Mphasis (Quantum Optimization)
+    url: 
+    date: '2023-12-21'
+    awarder: IIT Madras
+    icon: hero/trophy
+    summary: |
+       Part of the Gold Winning Team representing IIT Kharagpur at the Inter-IIT TechMeet for the event Mphasis-Quantum Optimization.
+       
+  - title: France Excellence Charpak Lab Scholarship
+    url: 
+    date: '2023-03-27'
+    awarder: Ambassade de France en Inde
+    icon: hero/currency-euro
+    summary: |
+       One of the 31 students in India awarded France Excellence Charpak Lab Scholarship-2023 by Ambassade de France en Inde.
+
+  - title: IIT KGP Foundation Grant
+    url: 
+    date: '2023-03-27'
+    awarder: IIT KGP Foundation
+    icon: hero/currency-dollar
+    summary: |
+       One of the 15 students to receive the IIT KGP Foundation Grant-2023 to undertake summer research in a foreign university.
+
+  - title: DAAD-WISE Scholarship
+    url: 
+    date: '2023-03-01'
+    awarder: Deutscher Akademischer Austauschdienst
+    icon: hero/currency-euro
+    summary: |
+       One of the 150 students in India selected for the DAAD-WISE Scholarship-2022 by Deutscher Akademischer Austauschdienst.
+
+  - title: Innovation in Science Pursuit for Inspired Research (INSPIRE) scholarship (2019-2024)
+    url: 
+    date: '2019-12-01'
+    awarder: Department of Science and Technology, Government of India
+    icon: hero/currency-rupee
+    summary: |
+       Awarded the Innovation in Science Pursuit for Inspired Research (INSPIRE) scholarship (2019-2024) by DST, Government of India for excellent academic performance in science.
+
+  - title: Department Change
+    url: 
+    date: '2020-06-30'
+    awarder: IIT Kharagpur
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+       One of the top-10\% students in IIT Kharagpur offered Department Change due to exceptional performance in 1st year.
+
+  - title: Top-2% in JEE Mains-2019 and Top-5% in JEE Advanced-2019
+    url: 
+    date: '2019-07-30'
+    awarder: National Testing Agency
+    icon: hero/academic-cap
+    summary: |
+        Ranked Top-2% (among 1.2million students) in JEE Mains-2019 and Top-5% (among 0.2million students) in JEE Advanced-2019.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Ankit Kumar Jha is a doctoral research working on coherent control of nanomechanical qubits. His interests also span across Quantum Error Correction, Quantum Foundation and Correlations, Condensed Matter Physics and Computational Physics. He is particularly intersted in High-Performance Computing leveraging GPUs. Ankit combines rigorous theoretical analysis with computational modeling, contributing to the understanding of physical quantum systems.

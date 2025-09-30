@@ -34,9 +34,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I’m a doctoral researcher working on coherent control of nanomechanical qubits. I study suspended carbon nanotubes and bilayer graphene qubits coupled to quantum dots and microwave cavities.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I also work on designing quantum repeaters using concatenated error correcting codes as well as certain aspects of prethermalization and floquet engineering in driven spin systems.
 
         Please reach out to collaborate 😃
     design:
